@@ -5,11 +5,11 @@
 **CS @ FIU (Global First Year)** · **Graphics / Game Dev / ML-curious**
 **C/C++ · OpenGL · Shaders**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Muzychenko-blue?logo=linkedin)](https://www.linkedin.com/in/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=safari)](https://your-site.example)
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-8A2BE2?logo=gmail)](mailto:hello@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Muzychenko-blue?logo=linkedin)](https://www.linkedin.com/in/nikitamu/)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=safari)](https://muzychenkonikita.github.io)
+[![Email](https://img.shields.io/badge/Email-hello%40example.com-8A2BE2?logo=gmail)](nmuzy001@fiu.edu)
 [![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader)](https://your-resume-link)
-[![Discord](https://img.shields.io/badge/Discord-@yourhandle-5865F2?logo=discord)](https://discordapp.com/users/your-id)
+[![Discord](https://img.shields.io/badge/Discord-@yourhandle-5865F2?logo=discord)](https://discordapp.com/users/nevp0pad)
 ![Visitors](https://komarev.com/ghpvc/?username=MuzychenkoNikita\&style=flat\&color=brightgreen)
 
 </div>
@@ -130,29 +130,6 @@
 * **Miami, FL (ET)**
 
 > Happy to connect about graphics, engines, or internships. I love feedback and code reviews.
-
----
-
-## 🧩 Quick facts
-
-* 🇺🇸 Studying in the US (international student, IB background).
-* 🏋️ Health & schedule oriented; like structured timetables.
-* 🎨 Enjoy designing icons and clean UIs for tooling.
-
----
-
-### 🔖 Pinned repos
-
-* 🔒 *(Tip: in GitHub → Profile → Customize your pins.)* Pin **Euclid**, **ShaderInterface**, **2D‑Engine**, and a small **Unity** sample to show range.
-
----
-
-### 📌 How to reuse this README
-
-1. Fork/copy this markdown to `README.md` in your profile repo named exactly **MuzychenkoNikita** (or your username).
-2. Replace all placeholders (email, links, images).
-3. Add screenshots to `/assets` and reference them.
-4. Consider a dark banner (1920×480) with your name + keywords.
 
 ---
 
