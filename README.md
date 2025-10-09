@@ -1,117 +1,116 @@
-<meta name="google-site-verification" content="5xhJO6HC7cbb3HJPvR6jpJDlDZElZEzifzKzDUk_9JI" />
+<!-- Centered title -->
+<h1 align="center">
+  <strong>&lt; NIKITA MUZYCHENKO /&gt;</strong>
+</h1>
 
-# **👋 Hey, I’m Nikita — CS @ FIU & graphics nerd.**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Muzychenko-blue?logo=linkedin)](https://www.linkedin.com/in/nikitamu/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=safari)](https://muzychenkonikita.github.io)
-[![Email](https://img.shields.io/badge/Email-nmuzy001%40fiu.edu-8A2BE2?logo=gmail)](nmuzy001@fiu.edu)
-[![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader)](https://muzychenkonikita.github.io/assets/downloads/Nikita_Muzychenko_Resume.pdf)
-[![Discord](https://img.shields.io/badge/Discord-@nevp0pad-5865F2?logo=discord)](https://discordapp.com/users/nevp0pad)
-![Visitors](https://komarev.com/ghpvc/?username=MuzychenkoNikita\&style=flat\&color=brightgreen)
+<p align="center">
+  <a href="https://x.com/Nevp0pad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-muzychenko" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://muzychenkonikita.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-6E59A5?logo=githubpages&logoColor=white&style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://discordapp.com/users/nevp0pad" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+  </a>
+  <a href="mailto:nmuzy001@fiu.edu">
+    <img src="https://img.shields.io/badge/Email-444?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikitamuzychenko&style=for-the-badge&color=6e59a5" alt="Profile views" />
+</p>
 
-</div>
 
----
+<hr/>
 
-## 🚀 About me
+<p align="center">
+  🍀 Hey! I’m <b>Nikita</b>, a CS student passion about real-time rendering graphics and shaders.
+</p>
 
-* First-year CS student @ **Florida International University** (Miami).
-* I build low-level **graphics tooling** and small **game/graphics engines** in **C++/OpenGL** with **ImGui** UIs.
-* I enjoy turning ideas into **fast, visual tools**: from shader playgrounds to 3D model workflows.
-* Hackathon regular (ShellHacks, NASA Space Apps). I like shipping under pressure and learning in public.
+## About me
 
-> **Goal:** become a strong graphics/engine developer and earn internships at companies like **NVIDIA** and **Microsoft**.
-
----
-
-## 🔭 What I’m working on right now
-
-* **Euclid** — an experimental **AI‑assisted 3D modeling** app: Avalonia (.NET 8) UI + native **C++/OpenGL** renderer.
-  Bridges C# ⇄ C++ via a clean DLL API; imports **OBJ**, normalizes to unit, AABB, transforms & gizmos.
-* **Shader Interface** — a modern shader IDE playground with audio‑reactive experiments.
-* **2D Engine** — tiled rendering, texture atlases, dynamic/static batches, camera & input abstractions.
-
-<details>
-<summary><b>🔁 Recent milestones</b></summary>
-
-* DLL bridge stabilized (C# host ⇄ C++ renderer) with clear envelope structs.
-* Integrated **Assimp** for model import; fixed platform‑specific linking.
-* Basic **FFmpeg** export prototype for shader videos.
-
-</details>
+- CS @ FIU — Freshman (G1Y)  
+- Shipping engines + shader tools
+- Working in OpenGL; learning Vulkan
+- Open to GPU/graphics internships
 
 ---
 
-## 🧰 Tech stack (focused & growing)
+## Skills wall
 
-**Languages:** C, **C++**, GLSL/HLSL
-**Graphics:** **OpenGL 3.3+**, ImGui (dockable), GLSL, stb_image/stb_rect_pack, Assimp
-**Engines/Frameworks:** GLFW, GLAD
-**Build & Tools:** CMake, Premake, Xcode, Visual Studio, Git/GitHub
+<p>
+  <!-- Core graphics -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GLSL-111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ImGui-333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GLFW-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GLAD-444?style=for-the-badge"/>
 
----
+  <!-- Build & tooling -->
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Premake-3b6ea8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge"/>
 
-## 🏗️ Featured projects
+  <!-- Misc / optional -->
+  <img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge"/>
 
-### 🧊 Euclid — AI‑Assisted 3D Modeling
 
-* **Stack:** Avalonia (.NET 8) • C++ • OpenGL • ImGui • Assimp
-* **Highlights:** C#⇄C++ DLL bridge, OBJ drag‑and‑drop, normalize‑to‑unit, AABB, transforms/gizmos.
-* **Why it’s cool:** Brings AI model generation into a predictable editor.
-* **Repo:** [Shellhacks-2025-Euclid/Euclid](https://github.com/Shellhacks-2025-Euclid/Euclid)
-* **Screenshot:** *add image here*
-
-### 🎛️ Shader Interface — Shader IDE & Visuals
-
-* **Stack:** C++ • OpenGL • ImGui • audio-reactive pipeline
-* **Highlights:** Live GLSL edit/compile, preview planes, audio uniforms, export WIP.
-* **Repo:** [MuzychenkoNikita/ShaderInterface](https://github.com/MuzychenkoNikita/ShaderInterface)
-
-### 🟪 2D Engine — Sprite/Tile Playground
-
-* **Stack:** C++ • OpenGL • stb_image • custom renderer
-* **Highlights:** Static & dynamic VAOs/VBOs/EBOs, glBufferSubData updates, texture atlases.
-* **Repo:** [MuzychenkoNikita/2D-Engine](https://github.com/MuzychenkoNikita/2D-Engine)
-
----
-
-## 🎓 Campus & hackathons
-
-* **FIU INIT Build Program** — Game Dev 3D cohort (Unity pipeline exposure).
-* **ShellHacks** — Built Euclid; solid graphics core & UI; AI layer to be improved post‑hackathon.
-* **NASA Space Apps** — Team lead/graphics programmer; shipped exoplanet star viewing prototype.
+  <!-- IDEs / OS -->
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
+</p>
 
 ---
 
-## 📈 GitHub at a glance
+## Featured projects
 
-<div align="center">
+- **Euclid** — AI-assisted 3D modeling (C++ renderer + .NET UI).  
+  *OBJ import, transforms & gizmos, unit normalization, AABB.*  
+  [Repo](#) • [Demo](#)
 
-<a href="https://github.com/MuzychenkoNikita">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=MuzychenkoNikita&show_icons=true&hide_title=true&rank_icon=github" />
-</a>
-<a href="https://github.com/MuzychenkoNikita">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=MuzychenkoNikita" />
-</a>
+- **Shader Interface** — live GLSL playground with audio input.  
+  *Fast iteration & clean debugging tools.*  
+  [Repo](#) • [Demo](#)
 
-</div>
-
-> *Note:* these cards are generated by community services; if they ever break, remove or pin local screenshots.
+- **2D Engine** — sprites, animations, camera, texture-atlas tools.  
+  [Repo](#)
 
 ---
 
-## 📬 Contact
-
-* **Email:** [nmuzy001@fiu.edu](mailto:nmuzy001@fiu.edu)
-* **LinkedIn:** /in/nikitamu/
-* **Discord:** @nevp0pad
-* **Miami, FL (ET)**
-
-> Happy to connect about graphics, engines, or internships. I love feedback and code reviews.
+## What I’m exploring
+- Vulkan fundamentals (sync, command buffers)  
+- GPU profiling with RenderDoc & Tracy 
+- Advanced lighting and PBR
 
 ---
 
-<div align="center">
+## My Stats
 
-**Thanks for visiting — let’s build something visual together.** ✨
-
-</div>
+<p align="center">
+  <!-- Overview -->
+  <a href="https://github.com/muzychenkonikita">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=muzychenkonikita&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true"
+      height="165"
+      alt="GitHub Overview"
+    />
+  </a>
+  <!-- Top Languages -->
+  <a href="https://github.com/muzychenkonikita?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzychenkonikita&layout=compact&theme=transparent&hide_border=true&card_width=380"
+      height="165"
+      alt="Top Languages"
+    />
+  </a>
+</p>
