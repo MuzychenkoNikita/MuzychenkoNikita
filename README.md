@@ -10,7 +10,7 @@
   <a href="https://muzychenkonikita.github.io/assets/downloads/Nikita_Muzychenko_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF3B30?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
 </a>
-  <a href="https://www.linkedin.com/in/nikita-muzychenko" target="_blank">
+  <a href="https://www.linkedin.com/in/nikitamu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://muzychenkonikita.github.io" target="_blank">
