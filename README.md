@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m **Nikita Muzychenko**
+# 👋 Hey, I’m Nikita — CS @ FIU & graphics nerd.**
 
 **CS @ FIU (Global First Year)** · **Graphics / Game Dev / ML-curious**
 **C/C++ · OpenGL · Shaders**
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Muzychenko-blue?logo=linkedin)](https://www.linkedin.com/in/nikitamu/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=safari)](https://muzychenkonikita.github.io)
 [![Email](https://img.shields.io/badge/Email-hello%40example.com-8A2BE2?logo=gmail)](nmuzy001@fiu.edu)
-[![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader)](https://your-resume-link)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader)](https://muzychenkonikita.github.io/assets/downloads/Nikita_Muzychenko_Resume.pdf)
 [![Discord](https://img.shields.io/badge/Discord-@yourhandle-5865F2?logo=discord)](https://discordapp.com/users/nevp0pad)
 ![Visitors](https://komarev.com/ghpvc/?username=MuzychenkoNikita\&style=flat\&color=brightgreen)
 
@@ -105,28 +105,11 @@
 
 ---
 
-## 🧪 Code style & values
-
-* **Clarity first.** Clean layering (Core / Graphics / Interface), small headers, strong types.
-* **Deterministic rendering.** Prefer predictable pipelines and debug views.
-* **Fast feedback.** Hot‑reload where possible; visible UI states; assert & log wisely.
-* **Cross‑platform.** macOS/Windows targets from the start; CI checks for configs.
-
----
-
-## 🗺️ Roadmap (short‑term)
-
-* Euclid: robust AI requests queue, offline cache, and recovery UI.
-* Shader Interface: export to MP4 via FFmpeg; presets gallery; audio analyzer UI.
-* 2D Engine: component system for animated sprites; scene transitions; save/load.
-
----
-
 ## 📬 Contact
 
-* **Email:** [hello@example.com](mailto:hello@example.com)
-* **LinkedIn:** /in/your‑profile
-* **Discord:** @yourhandle
+* **Email:** [nmuzy001@fiu.edu](mailto:nmuzy001@fiu.edu)
+* **LinkedIn:** /in/nikitamu/
+* **Discord:** @nevp0pad
 * **Miami, FL (ET)**
 
 > Happy to connect about graphics, engines, or internships. I love feedback and code reviews.
