@@ -1,10 +1,6 @@
-<div align="center">
+
 
 # **👋 Hey, I’m Nikita — CS @ FIU & graphics nerd.**
-
-**CS @ FIU (Global First Year)** · **Graphics / Game Dev / ML-curious**
-**C/C++ · OpenGL · Shaders**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Muzychenko-blue?logo=linkedin)](https://www.linkedin.com/in/nikitamu/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=safari)](https://muzychenkonikita.github.io)
 [![Email](https://img.shields.io/badge/Email-nmuzy001%40fiu.edu-8A2BE2?logo=gmail)](nmuzy001@fiu.edu)
@@ -40,7 +36,6 @@
 * DLL bridge stabilized (C# host ⇄ C++ renderer) with clear envelope structs.
 * Integrated **Assimp** for model import; fixed platform‑specific linking.
 * Basic **FFmpeg** export prototype for shader videos.
-* Audio‑reactive fragment shaders hooked to HTMLAudioElement (web demo WIP).
 
 </details>
 
@@ -51,8 +46,7 @@
 **Languages:** C, **C++**, GLSL/HLSL
 **Graphics:** **OpenGL 3.3+**, ImGui (dockable), GLSL, stb_image/stb_rect_pack, Assimp
 **Engines/Frameworks:** GLFW, GLAD
-**Build & Tools:** CMake, Premake, Xcode, Visual Studio, Git/GitHub, venv/Conda
-**Ops:** GitHub Actions, shell scripting, cross‑platform packaging
+**Build & Tools:** CMake, Premake, Xcode, Visual Studio, Git/GitHub
 
 ---
 
@@ -118,6 +112,6 @@
 
 <div align="center">
 
-**Thanks for visiting — let’s build something visual and fast.** ✨
+**Thanks for visiting — let’s build something visual together.** ✨
 
 </div>
