@@ -7,9 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Muzychenko-blue?logo=linkedin)](https://www.linkedin.com/in/nikitamu/)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=safari)](https://muzychenkonikita.github.io)
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-8A2BE2?logo=gmail)](nmuzy001@fiu.edu)
+[![Email](https://img.shields.io/badge/Email-nmuzy001%40fiu.edu-8A2BE2?logo=gmail)](nmuzy001@fiu.edu)
 [![Resume](https://img.shields.io/badge/Resume-PDF-green?logo=adobeacrobatreader)](https://muzychenkonikita.github.io/assets/downloads/Nikita_Muzychenko_Resume.pdf)
-[![Discord](https://img.shields.io/badge/Discord-@yourhandle-5865F2?logo=discord)](https://discordapp.com/users/nevp0pad)
+[![Discord](https://img.shields.io/badge/Discord-@nevp0pad-5865F2?logo=discord)](https://discordapp.com/users/nevp0pad)
 ![Visitors](https://komarev.com/ghpvc/?username=MuzychenkoNikita\&style=flat\&color=brightgreen)
 
 </div>
