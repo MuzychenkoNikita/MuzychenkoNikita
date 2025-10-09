@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I’m Nikita — CS @ FIU & graphics nerd.**
+# **👋 Hey, I’m Nikita — CS @ FIU & graphics nerd.**
 
 **CS @ FIU (Global First Year)** · **Graphics / Game Dev / ML-curious**
 **C/C++ · OpenGL · Shaders**
