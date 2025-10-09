@@ -7,11 +7,17 @@
   <a href="https://x.com/Nevp0pad" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter">
   </a>
+  <a href="https://muzychenkonikita.github.io/assets/downloads/Nikita_Muzychenko_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FF3B30?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+</a>
   <a href="https://www.linkedin.com/in/nikita-muzychenko" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://muzychenkonikita.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-6E59A5?logo=githubpages&logoColor=white&style=for-the-badge" alt="Website">
+  <img src="https://img.shields.io/badge/Website-6E59A5?logo=safari&logoColor=white&style=for-the-badge" alt="Website">
+</a>
+   <a href="https://devpost.com/nmuzy001?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-0A0A0A?style=for-the-badge&logo=devpost&logoColor=25A1F2" alt="Devpost" />
   </a>
   <a href="https://discordapp.com/users/nevp0pad" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
@@ -19,7 +25,6 @@
   <a href="mailto:nmuzy001@fiu.edu">
     <img src="https://img.shields.io/badge/Email-444?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nikitamuzychenko&style=for-the-badge&color=6e59a5" alt="Profile views" />
 </p>
 
 
