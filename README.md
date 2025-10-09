@@ -76,14 +76,14 @@
 
 - **Euclid** — AI-assisted 3D modeling (C++ renderer + .NET UI).  
   *OBJ import, transforms & gizmos, unit normalization, AABB.*  
-  [Repo](#) • [Demo](#)
+  [Repo](https://github.com/Shellhacks-2025-Euclid/Euclid) • [Demo](https://www.youtube.com/watch?v=qPpZXJGmOuo)
 
 - **Shader Interface** — live GLSL playground with audio input.  
   *Fast iteration & clean debugging tools.*  
-  [Repo](#) • [Demo](#)
+  [Repo](https://github.com/MuzychenkoNikita/ShaderInterface)
 
 - **2D Engine** — sprites, animations, camera, texture-atlas tools.  
-  [Repo](#)
+  [Repo](https://github.com/MuzychenkoNikita/2D-Engine)
 
 ---
 
