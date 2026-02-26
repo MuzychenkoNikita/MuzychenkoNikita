@@ -7,7 +7,7 @@
   <a href="https://x.com/Nevp0pad" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter">
   </a>
-  <a href="https://muzychenkonikita.github.io/assets/downloads/Nikita_Muzychenko_Resume.pdf" target="_blank">
+  <a href="https://muzychenkonikita.github.io/assets/Nikita_Muzychenko_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF3B30?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
 </a>
   <a href="https://www.linkedin.com/in/nikitamu" target="_blank">
